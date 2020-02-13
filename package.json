@@ -1,0 +1,19 @@
+{
+  "name": "asyncundsyncjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shalom-codes/asyncUndSyncJavaScript.git"
+  },
+  "author": "Miss Shaapera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shalom-codes/asyncUndSyncJavaScript/issues"
+  },
+  "homepage": "https://github.com/Shalom-codes/asyncUndSyncJavaScript#readme"
+}
